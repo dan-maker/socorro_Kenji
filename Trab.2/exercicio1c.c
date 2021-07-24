@@ -1,3 +1,8 @@
+/* Autores (a partir do codigo fornecido)
+Danillo Mendes Santiago 10414592
+Gabriel Passarelli 11218480
+Marcelo Kenji Noda 11275359
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
